@@ -24,7 +24,21 @@
   <!-- Template Main CSS File -->
   <link href="static/assets/css/style.css" rel="stylesheet">
 
- 
+   <style>
+    /* Style for Help Button */
+    .help-button {
+      position: fixed;
+      bottom: 20px;
+      right: 20px;
+      z-index: 9999;
+      background-color: #007bff;
+      color: #fff;
+      padding: 10px 20px;
+      border-radius: 50%;
+      font-size: 16px;
+      cursor: pointer;
+    }
+  </style>
 </head>
 
 <body>
@@ -99,6 +113,16 @@
 
   <a href="#" class="back-to-top"><i class="fa fa-angle-up"></i></a>
 
+       <!-- Help Button -->
+ <div class="help-button" onclick="toggleChat()">Help</div>
+ <!-- End Help Button -->
+
+ <!-- Chat Bot -->
+ <div id="chat-container" style="display: none;">
+  <iframe src="https://webchat.botframework.com/embed/ketki-bot?s=-AJB7d2ckoM.tPOVv-AfQOXxHt6vaL5UeZPeuVOv2J6WwIX4cDdotWQ" style="height: 502px; max-height: 502px; width: 300px; border: none;"></iframe>
+</div>
+
+
   <!-- Vendor JS Files -->
   <script src="static/assets/vendor/jquery/jquery.min.js"></script>
   <script src="static/assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
@@ -113,6 +137,19 @@
 
   <!-- Template Main JS File -->
   <script src="static/assets/js/main.js"></script>
+
+     <script>
+    // Function to toggle chat window
+    function toggleChat() {
+      var chatContainer = document.getElementById('chat-container');
+      if (chatContainer.style.display === 'none') {
+        chatContainer.style.display = 'block';
+      } else {
+        chatContainer.style.display = 'none';
+      }
+    }
+  </script>
+
 
 </body>
 
