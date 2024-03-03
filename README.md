@@ -53,12 +53,25 @@ Azure AI Service : Azure Bot Service(Language Service): Facilitates interactive 
 Screenshots Azure Services :-
 
 Azure App Service: Description : Azure App Service provides a scalable and reliable hosting environment for Phramacy management system, ensuring seamless deployment and continuous availability to optimize the user experience 
+![Screenshot (93)](https://github.com/rachelliBhavana/Pharmacy-Supply-Management-System/assets/86688714/bbb14b7d-d1b7-43ee-b615-55df7dd803e6)
 
-2) Azure Database For MySQL : Description :The project leverages Azure MySQL as its database solution to efficiently manage and store user interaction history. Azure MySQL provides a reliable relational database service that ensures that data is readily available, reliable, and quickly retrievable, leading to smooth user experiences. 
+
+2) Azure Database For MySQL : Description :The project leverages Azure MySQL as its database solution to efficiently manage and store user interaction history. Azure MySQL provides a reliable relational database service that ensures that data is readily available, reliable, and quickly retrievable, leading to smooth user experiences.
+![Screenshot (94)](https://github.com/rachelliBhavana/Pharmacy-Supply-Management-System/assets/86688714/c9af8a91-e514-44c0-9450-d1e6bd697dd6)
+
 
 Azure AI Service : Azure Bot Service(Language Service): Description :Azure Bot Service empowers Opportunity Junction with interactive and responsive bot experiences, enhancing user engagement and satisfaction through seamless deployment and continuous availability. 
+![Screenshot (95)](https://github.com/rachelliBhavana/Pharmacy-Supply-Management-System/assets/86688714/128ff1b6-614d-4d6e-ac1e-3632fa9a07cb)
+
 
 Working Live Project Display : Provided below is a screenshot displaying the operational website, offering a real-time view of the project in action for your reference and review.
+![Screenshot (96)](https://github.com/rachelliBhavana/Pharmacy-Supply-Management-System/assets/86688714/0ea90f7b-c0b8-4daf-88b1-8eae08b6f616)
+![Screenshot (97)](https://github.com/rachelliBhavana/Pharmacy-Supply-Management-System/assets/86688714/decf2a34-5a8e-493b-b6f1-38545feccb9d)
+![Screenshot (98)](https://github.com/rachelliBhavana/Pharmacy-Supply-Management-System/assets/86688714/5c7d30da-b154-403d-ba19-7efd004b37c3)
+![Screenshot (99)](https://github.com/rachelliBhavana/Pharmacy-Supply-Management-System/assets/86688714/1d9c7af7-0f95-49ef-8242-cbaead73c24b)
+![Screenshot (100)](https://github.com/rachelliBhavana/Pharmacy-Supply-Management-System/assets/86688714/efe40b25-67af-404f-8663-509d1a70b456)
+![Screenshot (101)](https://github.com/rachelliBhavana/Pharmacy-Supply-Management-System/assets/86688714/1c031638-a8f1-4db5-a899-10c9b84ec9ac)
+![Screenshot (102)](https://github.com/rachelliBhavana/Pharmacy-Supply-Management-System/assets/86688714/527bbbdf-074d-4d70-998b-b88728e7a28a)
 
 Resource Visualizer :
 
