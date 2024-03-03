@@ -76,3 +76,5 @@ Working Live Project Display : Provided below is a screenshot displaying the ope
 Resource Visualizer :
 
 Enclosed is a screenshot of the resource visualizer, providing a comprehensive overview of the utilized resources for reference and documentation purposes.
+![Screenshot (103)](https://github.com/rachelliBhavana/Pharmacy-Supply-Management-System/assets/86688714/627cbc97-30cb-4559-8dab-30eebf7b15d4)
+
