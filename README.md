@@ -1,4 +1,7 @@
-FARMER MANAGEMENT SYSTEM :- FARM MANAGEMENT SYSTEM successfully implemented based on online selling which helps us in administrating the agroproducts user for managing the tasks performed in farmers. The project successfully used various functionalities of Xampp and python flask and also create the fully functional database management system for online portals.
+
+**FARMER MANAGEMENT SYSTEM :- **
+
+FARM MANAGEMENT SYSTEM successfully implemented based on online selling which helps us in administrating the agroproducts user for managing the tasks performed in farmers. The project successfully used various functionalities of Xampp and python flask and also create the fully functional database management system for online portals.
 Using MySQL as the database is highly beneficial as it is free to download, popular and can be easily customized. The data stored in the MySQL database can easily be retrieved and manipulated according to the requirements with basic knowledge of SQL.
 With the theoretical inclination of our syllabus it becomes very essential to take the atmost advantage of any opportunity of gaining practical experience that comes along. The building blocks of this Major Project “Farm Management System” was one of these opportunities. It gave us the requisite practical knowledge to supplement the already taught theoretical concepts thus making us more competent as a computer engineer. The project from a personal point of view also helped us in understanding the following aspects of project development:
 • The planning that goes into implementing a project.
@@ -6,7 +9,12 @@ With the theoretical inclination of our syllabus it becomes very essential to ta
 • The key element of team spirit and co-ordination in a successful project
 Give me project description , key feature,future enhancement , problem statement
 
-Microsoft-Future-Ready-Talent-Virtual-Internship-Project Project Title: Pharmacy Management System Project Details : Project Demo URL : Demo Video URL : Github Repository URL : Industry :
+Microsoft-Future-Ready-Talent-Virtual-Internship-Project 
+Project Title: Pharmacy Management System Project 
+Details : Project Demo URL : 
+Demo Video URL : 
+Github Repository URL : 
+
 
 Azure Services Used :-
 
