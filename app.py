@@ -21,7 +21,7 @@ def load_user(user_id):
     return User.query.get(int(user_id))
 
 # app.config['SQLALCHEMY_DATABASE_URL']='mysql://username:password@localhost/database_name'
-app.config['SQLALCHEMY_DATABASE_URI']='mysql://Farmer:Admin123@farmerdata.mysql.database.azure.com/Farmer'
+app.config['SQLALCHEMY_DATABASE_URI']='mysql://Farmer:Admin123@farmerdata.mysql.database.azure.com/farmers'
 db=SQLAlchemy(app)
 
 # here we will create db models that is tables
