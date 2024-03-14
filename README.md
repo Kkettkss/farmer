@@ -53,7 +53,8 @@ Azure AI Service : Azure Bot Service(Language Service): Facilitates interactive 
 Screenshots Azure Services :-
 
 Azure App Service: Description : Azure App Service provides a scalable and reliable hosting environment for Phramacy management system, ensuring seamless deployment and continuous availability to optimize the user experience 
-![Screenshot (93)](https://github.com/rachelliBhavana/Pharmacy-Supply-Management-System/assets/86688714/bbb14b7d-d1b7-43ee-b615-55df7dd803e6)
+![Screenshot (106)](https://github.com/Kkettkss/farmer/assets/115526547/09f9a38a-7ecc-448f-8f52-79ae70bdbc59)
+
 
 
 2) Azure Database For MySQL : Description :The project leverages Azure MySQL as its database solution to efficiently manage and store user interaction history. Azure MySQL provides a reliable relational database service that ensures that data is readily available, reliable, and quickly retrievable, leading to smooth user experiences.
