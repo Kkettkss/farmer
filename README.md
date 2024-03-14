@@ -64,7 +64,7 @@ Azure App Service: Description : Azure App Service provides a scalable and relia
 
 
 Azure AI Service : Azure Bot Service(Language Service): Description :Azure Bot Service empowers Opportunity Junction with interactive and responsive bot experiences, enhancing user engagement and satisfaction through seamless deployment and continuous availability. 
-![Screenshot (95)](https://github.com/rachelliBhavana/Pharmacy-Supply-Management-System/assets/86688714/128ff1b6-614d-4d6e-ac1e-3632fa9a07cb)
+![Screenshot (108)](https://github.com/Kkettkss/farmer/assets/115526547/7303f8da-abfe-4757-9085-fac723447861)
 
 
 Working Live Project Display : Provided below is a screenshot displaying the operational website, offering a real-time view of the project in action for your reference and review.
