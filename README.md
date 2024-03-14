@@ -63,7 +63,7 @@ Azure App Service: Description : Azure App Service provides a scalable and relia
 
 
 
-Azure AI Service : Azure Bot Service(Language Service): Description :Azure Bot Service empowers Opportunity Junction with interactive and responsive bot experiences, enhancing user engagement and satisfaction through seamless deployment and continuous availability. 
+Azure AI Service : Azure Bot Service(Language Service): Description :Azure Bot Service empowers Fram management with interactive and responsive bot experiences, enhancing user engagement and satisfaction through seamless deployment and continuous availability. 
 ![Screenshot (108)](https://github.com/Kkettkss/farmer/assets/115526547/7303f8da-abfe-4757-9085-fac723447861)
 
 
