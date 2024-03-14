@@ -58,7 +58,9 @@ Azure App Service: Description : Azure App Service provides a scalable and relia
 
 
 2) Azure Database For MySQL : Description :The project leverages Azure MySQL as its database solution to efficiently manage and store user interaction history. Azure MySQL provides a reliable relational database service that ensures that data is readily available, reliable, and quickly retrievable, leading to smooth user experiences.
-![Screenshot (94)](https://github.com/rachelliBhavana/Pharmacy-Supply-Management-System/assets/86688714/c9af8a91-e514-44c0-9450-d1e6bd697dd6)
+
+![Screenshot (107)](https://github.com/Kkettkss/farmer/assets/115526547/f46cafce-e053-4815-9987-7226d25cd7c3)
+
 
 
 Azure AI Service : Azure Bot Service(Language Service): Description :Azure Bot Service empowers Opportunity Junction with interactive and responsive bot experiences, enhancing user engagement and satisfaction through seamless deployment and continuous availability. 
