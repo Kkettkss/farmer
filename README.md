@@ -11,7 +11,7 @@ Give me project description , key feature,future enhancement , problem statement
 
 Microsoft-Future-Ready-Talent-Virtual-Internship-Project 
 Project Title: Pharmacy Management System Project 
-Details : Project Demo URL : https://farmer.azurewebsites.net/
+Details : Project Demo URL : https://github.com/Kkettkss/farmer.githttps://farmer.azurewebsites.net/
 Demo Video URL : https://drive.google.com/file/d/1GjUiD7APRma2Z3xicm4yaXvenHQ3pNxY/view?usp=drivesdk
 Github Repository URL : 
 
